@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/828630347.svg)](https://zenodo.org/doi/10.5281/zenodo.12740930)
+
 # Comparative growth of Nile tilapia and Korogwe tilapia in Lake Rutamba, Tanzania
 
 Lake Rutamba tilapia growth paper
