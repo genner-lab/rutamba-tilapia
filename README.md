@@ -12,9 +12,9 @@ Data and code for Champneys et al. "Rapid growth of a locally-endemic tilapia ma
 
 ***
 
-File: xxxxxxx The microsatellite allele size data file, used for genetic assignment using admixture.
+File: rutamba_microsatellite_data.txt The microsatellite allele size data file, used for genetic assignment using admixture.
 
-File: rutamba_dataset.csv The main data file, comma delimited.
+File: rutamba_growth_data.csv The main data file, comma delimited.
 
 ***
 
