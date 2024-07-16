@@ -22,5 +22,5 @@ File: rutamba_growth_data.csv The main data file, comma delimited.
 
 ***
 
-File: xxxx.R Script used for analyses of relative growth
+File: AnalysisScript.R Script used for analyses of relative growth
 
